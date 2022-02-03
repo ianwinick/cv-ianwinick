@@ -9,7 +9,7 @@ output: html_document
 **Cornell University**  
 **Master of Professional Studies**, Field of Natural Resources and the Environment (*expected 2022*)  
 
-* **Capstone Project** -- Rethinking Rarity: an investigation of the restoration potential of *Lupinus perennis* in the modern landscape of the Finger Lakes Region, New York, USA
+* **Capstone Project** -- Rethinking Rarity: an investigation of the restoration potential of *Lupinus perennis* in the modern landscape of the Finger Lakes Region, New York, USA.  Ian is the *Queen of Rarity*
 
 **Queen's University at Kingston**  
 **Bachelor of Science Honors**, Biology, 2012
