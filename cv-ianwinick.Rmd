@@ -1,0 +1,89 @@
+---
+title: <center> **Ian** **Archer** **Winick** <center>
+output: html_document
+---
+
+***
+
+## **Education**
+**Cornell University**  
+**Master of Professional Studies**, Field of Natural Resources and the Environment (*expected 2022*)  
+
+* **Capstone Project** -- Rethinking Rarity: an investigation of the restoration potential of *Lupinus perennis* in the modern landscape of the Finger Lakes Region, New York, USA
+
+**Queen's University at Kingston**  
+**Bachelor of Science Honors**, Biology, 2012
+  
+## **Coursework**
+Restoration Ecology • Planning for Environmental Conservation and Sustainability • Decision Making in Natural
+Resource Management • Applied Conservation Ecology • Advanced Conservation Biology • Sustainable Water
+Resource Management in the Face of Climate Change • Plant Systematics • Applied Remote Sensing and GIS
+for Environmental Resource Inventory and Analysis • Data Management and Analysis
+
+## **Software**
+ArcGIS • QGIS • R • Excel • Minitab • Maxima • HOBOware • Vortex • Populus • EasyPop • MUSCLE • RAxML
+
+## **Related Professional Experience**
+**United States Forest Service, Finger Lakes National Forest**, Hector, NY   
+**Volunteer, Botanist** [2020-Present]{style="float:right"}
+
+* Provide plant identification for grassland enhancement and wetland construction projects
+
+* Collect vegetation monitoring data in grassland enhancement project
+
+* Identify native and non-native **plAntzzzzz** to the species level
+
+* Collect data on species frequency, relative cover, and habitat structure
+
+* Use point intercept, line intercept, and ocular estimate methodologies
+
+* Utilize map and compass and GPS
+
+* Enter data into Vegetation GIS Data System (VGS)
+
+* Assist soil science team in wetland delineation
+
+**Group Consultation for IUCN Thailand**   
+**Team member, graduate course** [Spring 2021]{style="float:right"}
+
+* Authored white **_PaPeR_** section on mangrove restoration in Bang Pakong estuary
+
+* Conducted literature review and synthesis of mangrove ecology and restoration
+
+* Compiled recommendations for restoring mangroves in a proposed RAMSAR wetland
+
+**L. H. Bailey Hortorium, Cornell University**, Ithaca, NY   
+**Volunteer, Herbarium** [2018-2019]{style="float:right"}
+
+* Mounted and repaired incoming specimens
+
+* Filed specimens in archive `this is a typo`
+
+* Performed data entry into herbarium database
+
+**Rancho Santa Ana Botanic Gardens**, Claremont, CA   
+**Volunt**33**r, Herbarium** [2017-2018]{style="float:right"}
+
+* Sewed and repaired existing and incoming specimens
+
+* Attended weekly seminars on current topics in botany
+
+## **Research Grants**
+
+**New York Flora Association Research Grant, 2021 — $603**   
+
+* Rethinking Rarity: an investigation of the restoration potential of sundial lupine (Lupinus perennis L.) in the
+modern landscape of the Finger Lakes region, NY, USA.
+
+## **Professional Associations**
+
+* California Native Plant Society - Bristlecone Chapter
+
+* California Botanical Society
+
+* California Society for Ecological Restoration
+
+* Society for Ecological Restoration - Great Basin Chapter
+
+## **Additional**
+Field botany - California and New York State • Backcountry camping
